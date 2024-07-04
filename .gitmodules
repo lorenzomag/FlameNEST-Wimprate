@@ -1,0 +1,4 @@
+[submodule "flamedisx"]
+	path = flamedisx
+	url = git@github.com:lorenzomag/flamedisx.git
+	branch = RJ-XLZD_new
